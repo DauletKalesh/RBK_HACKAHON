@@ -3,7 +3,7 @@
 [![Numpy Version](https://img.shields.io/badge/numpy-1.22.3-orange)](https://numpy.org/)
 [![Sklearn Version](https://img.shields.io/badge/sklearn-1.0.2-orange)](https://scikit-learn.org/stable/)
 [![Tensorflow Version](https://img.shields.io/badge/tensorflow-2.8.0-orange)](https://www.tensorflow.org/)
-[![NLTK Version](https://img.shields.io/badge/tensorflow-2.8.0-orange)](https://www.nltk.org/)
+[![NLTK Version](https://img.shields.io/badge/nltk-3.7.0-orange)](https://www.nltk.org/)
 ## Introduction
 Developing Virtual Assistant for Bank Systems and Apps
 
